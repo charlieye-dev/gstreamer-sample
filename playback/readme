@@ -1,0 +1,5 @@
+Abstract:
+   *4: rate of progress we can see.
+	5: color balance manually.
+   *6: audio visualization.
+	7: custom playbin sinks.
